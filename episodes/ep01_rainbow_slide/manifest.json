@@ -1,0 +1,159 @@
+{
+  "episode_id": "ep01_rainbow_slide",
+  "title": "ep01_rainbow_slide",
+  "languages": [
+    "hindi",
+    "english"
+  ],
+  "fps": 24,
+  "shots": [
+    {
+      "shot_id": "s01",
+      "scene": 1,
+      "speaker": "Novi",
+      "action": "Running & Hopping across forest path, smelling glowing flowers",
+      "dialogue": {
+        "hindi": "Good morning Wonder Forest! Wah, kitni pyari subah hai! Chalo dosto, aaj ped pe chadhenge aur khoob masti karenge! Hop, hop, hooray!",
+        "english": "Good morning Wonder Forest! What a beautiful sunny day! Come on friends, let's climb the big tree and have so much fun! Hop, hop, hooray!"
+      },
+      "characters": [
+        "Novi"
+      ],
+      "ref_image": "assets/characters/novi_and_friends.jpg",
+      "motion_prompt": "Novi runs and hops along a soft mossy forest path, ears flapping with wind, paws kicking up tiny glowing flower petals, natural weight shift with each hop, wide-eyed excitement",
+      "camera": "tracking shot following forward",
+      "seed": 632641971,
+      "min_duration": 3.0
+    },
+    {
+      "shot_id": "s02",
+      "scene": 2,
+      "speaker": "Mimi",
+      "action": "Chubby Bear Belly Dance & Berry Munching",
+      "dialogue": {
+        "hindi": "Haha! Novi dekho mera berry dance! Pet ko hilaao, gol gol ghoom jaao! Yummy berries in my tummy!",
+        "english": "Haha! Novi look at my berry dance! Wiggle your tummy, spin all around! Yummy berries in my tummy!"
+      },
+      "characters": [
+        "Mimi",
+        "Novi"
+      ],
+      "ref_image": "assets/characters/novi_and_friends.jpg",
+      "motion_prompt": "Mimi performs a rhythmic belly-wiggle dance on green grass, shaking hips side to side, throwing hands in the air and laughing, munching a berry, fur reacting to the moves",
+      "camera": "static wide shot, slight push-in",
+      "seed": 1429352504,
+      "min_duration": 3.0
+    },
+    {
+      "shot_id": "s03",
+      "scene": 3,
+      "speaker": "Pip",
+      "action": "Fast Bird Flying & Pointing to High Canopy",
+      "dialogue": {
+        "hindi": "Chirp chirp! Ooper dekho, ooper dekho! Sabse unchi daali par chamakta hua Golden Star-Fruit hai!",
+        "english": "Chirp chirp! Look up high, look up high! The glowing Golden Star-Fruit is at the very top branch!"
+      },
+      "characters": [
+        "Pip"
+      ],
+      "ref_image": "assets/characters/novi_and_friends.jpg",
+      "motion_prompt": "Pip flutters rapidly in mid-air, doing a small loop and pointing a wing up to a glowing golden star-fruit on the highest branch",
+      "camera": "low angle looking up, slow tilt",
+      "seed": 1969814868,
+      "min_duration": 3.0
+    },
+    {
+      "shot_id": "s04",
+      "scene": 4,
+      "speaker": "Toby",
+      "action": "Wise Turtle Stepping Stones & Encouragement",
+      "dialogue": {
+        "hindi": "Dheere dheere Novi, ghabrana mat! Ek ek kadam aage badhao, tum pakka ped par chadh jaoge!",
+        "english": "Slow and steady Novi, don't worry! Take it step by step, you can climb all the way up!"
+      },
+      "characters": [
+        "Toby",
+        "Novi"
+      ],
+      "ref_image": "assets/characters/novi_and_friends.jpg",
+      "motion_prompt": "Toby takes slow steady steps across marshmallow stepping stones by a crystal brook, nodding encouragement with a gentle smile",
+      "camera": "medium shot, gentle pan",
+      "seed": 1554639834,
+      "min_duration": 3.0
+    },
+    {
+      "shot_id": "s05",
+      "scene": 5,
+      "speaker": "Novi",
+      "action": "Tree Climbing Physics: Paws gripping bark, pulling body upwards",
+      "dialogue": {
+        "hindi": "Main chadhta hoon! Mazbooti se daali pakdi, ek haath ooper, ek paanv ooper! Yay, main kitna ooper aa gaya!",
+        "english": "Here I go! Holding the branch tight, one paw up, one foot up! Yay, look how high I've climbed!"
+      },
+      "characters": [
+        "Novi"
+      ],
+      "ref_image": "assets/characters/novi_treehouse.jpg",
+      "motion_prompt": "Novi climbs the rough bark of a giant oak tree, front paws gripping, pulling body weight upward, kicking back legs onto a mossy branch, reaching toward a glowing star-fruit",
+      "camera": "upward crane shot following the climb",
+      "seed": 657746384,
+      "min_duration": 3.0
+    },
+    {
+      "shot_id": "s06",
+      "scene": 6,
+      "speaker": "Novi",
+      "action": "Treehouse Balcony Victory Dance with High-Fives",
+      "dialogue": {
+        "hindi": "Hurray! Main ped ke sabse ooper treehouse me hoon! Chalo sab milkar naacho! Bunny hop dance, left shake, right shake!",
+        "english": "Hurray! I made it to the treetop treehouse! Let's all dance together! Bunny hop dance, shake left, shake right!"
+      },
+      "characters": [
+        "Novi"
+      ],
+      "ref_image": "assets/characters/novi_treehouse.jpg",
+      "motion_prompt": "Novi dances a joyful victory dance on a wooden treehouse balcony, stomping tiny blue sneakers, spinning around, high-fiving friends and waving over the railing",
+      "camera": "medium shot, slow orbit",
+      "seed": 2018051579,
+      "min_duration": 3.0
+    },
+    {
+      "shot_id": "s07",
+      "scene": 7,
+      "speaker": "Novi",
+      "action": "Fast Spiral Rainbow Water Slide Zoom & Water Splash",
+      "dialogue": {
+        "hindi": "Aur ab niche aane ka time! Rainbow slide par jump! One, Two, Three... WHOOOOOSH! Ye kitna thrilling hai!",
+        "english": "And now it's time to slide down! Ready for the rainbow slide! One, Two, Three... WHOOOOOSH! This is so fast and fun!"
+      },
+      "characters": [
+        "Novi"
+      ],
+      "ref_image": "assets/characters/rainbow_slide.jpg",
+      "motion_prompt": "Novi slides down a curved translucent rainbow water slide at speed, leaning into the banked turn, water droplets spraying, ears streaming back, ecstatic smile",
+      "camera": "fast tracking shot along the slide",
+      "seed": 1766883048,
+      "min_duration": 3.0
+    },
+    {
+      "shot_id": "s08",
+      "scene": 8,
+      "speaker": "Mimi",
+      "action": "Soft Marshmallow Landing, Sharing Fruit & Hugging",
+      "dialogue": {
+        "hindi": "Boing! Novi tumne kar dikhaya! Aadha fruit tumhara, aadha mera! Sharing makes us best friends forever!",
+        "english": "Boing! You did it Novi! Half for you, and half for me! Sharing makes us best friends forever!"
+      },
+      "characters": [
+        "Mimi",
+        "Novi"
+      ],
+      "ref_image": "assets/characters/rainbow_slide.jpg",
+      "motion_prompt": "Novi lands in a giant fluffy marshmallow pit with a deep soft bounce, pops back up holding a golden star-fruit, Mimi runs in and gives a tight squishy hug, heart bubbles pop around them",
+      "camera": "wide shot, slow push-in",
+      "seed": 2069559998,
+      "min_duration": 3.0
+    }
+  ],
+  "schema_version": 1
+}

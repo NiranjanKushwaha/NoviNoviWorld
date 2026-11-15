@@ -1,0 +1,26 @@
+{
+  "Novi": {
+    "species": "baby bunny",
+    "anchor": "ultra-cute baby bunny named Novi, fluffy cream-white fur, long floppy ears with soft pink inside, big sparkling brown eyes, chubby pink cheeks, wearing a mint-green cozy hoodie with pastel yellow cuffs and soft blue sneakers",
+    "movement": "agile and bouncy, ears flopping with each hop, quick curious head turns",
+    "voice_ref": ""
+  },
+  "Mimi": {
+    "species": "bear cub",
+    "anchor": "adorable chubby baby bear cub named Mimi, warm honey-caramel fluffy fur, round ears, big sweet dark eyes, wearing bright red denim overalls with large yellow buttons",
+    "movement": "chubby and goofy, belly jiggle, heavy soft footsteps, clumsy joyful arm swings",
+    "voice_ref": ""
+  },
+  "Pip": {
+    "species": "baby bluebird",
+    "anchor": "tiny cheerful baby bluebird named Pip, fluffy pastel sky-blue and white feathers, small yellow beak, large curious eyes, wearing a miniature yellow acorn beanie",
+    "movement": "hyper-fast wing flutter, mid-air loops, tail feather twitches",
+    "voice_ref": ""
+  },
+  "Toby": {
+    "species": "baby turtle",
+    "anchor": "cute baby turtle named Toby, soft pastel green skin, big gentle green eyes, smooth shell with pastel rainbow hexagon patterns, wearing tiny orange shoes",
+    "movement": "slow and steady, smooth gentle steps, slow expressive head nods",
+    "voice_ref": ""
+  }
+}

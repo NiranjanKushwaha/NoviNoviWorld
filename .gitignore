@@ -1,0 +1,29 @@
+# environments / caches
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+# media and generated output (large, or your own assets)
+assets/
+backups/
+exports/
+**/exports/
+**/work/
+**/audio/
+**/clips/
+*.mp4
+*.mp3
+*.wav
+*.m4a
+*.png
+*.jpg
+# local tooling and secrets
+.agents/
+.claude/
+graphify-out/
+tools/MoneyPrinterTurbo/
+.env
+*.key
+studio_config.json
+cost_state.json
+.push_bundle/
